@@ -53,10 +53,12 @@ overflow-x: hidden;
 }
 .leftSec1{
    
-    font-size: 3rem;
+  
     margin:40px 0; 
     text-align: center;   
     padding: 60px 0;
+     font-size: 50px;
+    line-height: 70px;
 }
 
 .rightSec1{
